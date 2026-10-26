@@ -1,2 +1,0 @@
-# priestess
-priestess
